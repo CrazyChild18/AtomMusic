@@ -1,0 +1,37 @@
+{
+  "id": "3272461",
+  "name": "atom",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "577311",
+      "name": "关闭2",
+      "font_class": "guanbi2",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "8223328",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "7594152",
+      "name": "24gf-pause2",
+      "font_class": "24gf-pause2",
+      "unicode": "ea81",
+      "unicode_decimal": 60033
+    },
+    {
+      "icon_id": "7594155",
+      "name": "24gf-play",
+      "font_class": "24gf-play",
+      "unicode": "ea82",
+      "unicode_decimal": 60034
+    }
+  ]
+}
